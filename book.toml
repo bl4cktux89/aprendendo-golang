@@ -1,0 +1,6 @@
+[book]
+authors = ["Vinicius Silva"]
+language = "en"
+multilingual = false
+src = "src"
+title = "aprendendo golang"
